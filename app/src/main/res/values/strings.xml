@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">retrofit</string>
+        <string name="user_list_title">Liste des utilisateurs</string>
+        <string name="search_hint">Rechercher par nom...</string>
+        <string name="loading_error">Erreur lors du chargement des données</string>
+
+</resources>
